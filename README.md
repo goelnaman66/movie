@@ -81,16 +81,16 @@ Clone the repo or download and unzip it<br/>
 Use command propmt to navigate to the extracted folder
 Run
 
-'''npm install'''
+```npm install```
 
 navigate to the Client folder and run
 
-'''npm install'''
-
+```npm install```
+***
 run the client and server seperately
 <br/>
 
-***
+
 in the root folder run<br/>
 
 ```npm start```
@@ -100,3 +100,4 @@ in another command prompt in the client folder run
 
 ```npm start```
 <br/>
+***
