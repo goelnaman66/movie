@@ -29,7 +29,7 @@ Recommendations are based on similar users(UserBased Collaborative Filtering),si
 <br/>
 User-Based Collaborative Filtering is a technique used to predict the items that a user might like on the basis of ratings given to that item by the other users who have similar taste with that of the target user.
 
-***![image](https://user-images.githubusercontent.com/56230034/170880769-72d93c59-258f-4ebb-b4da-2774ddcda642.png)***
+***![image](https://user-images.githubusercontent.com/56230034/170883704-4126e84f-48a5-4c89-8d22-52ceffb27a55.png)***
 
 ## 2. Item Based Collaborative Filtering
 <br/>
