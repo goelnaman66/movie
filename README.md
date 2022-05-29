@@ -41,6 +41,7 @@ The fundamental assumption for this method is that a user gives similar ratings 
 ## 3. Knn Baseline Collaborative Filtering
 <br/>
 <b>It can take few minutes to show recommendation</b>
+
 A basic collaborative filtering algorithm taking into account a baseline rating.
 
 ***![image](https://user-images.githubusercontent.com/56230034/170884187-75f2656d-b226-4f21-b51a-172e0ef2107b.png)***
@@ -107,3 +108,12 @@ in another command prompt in the client folder run
 ```npm start```
 <br/>
 ***
+
+## How to use the flask server
+1. Clone the repo or download and unzip it
+2. Create a virtual environment with <b> Python version 3.7.13 </b>
+3. Run command
+  ```pip install -r requirements.txt``` 
+  in the anaconda prompt or cmd
+  <br/>
+  
