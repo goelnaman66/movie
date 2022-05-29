@@ -74,3 +74,20 @@ User can search for different movies in the search bar provided on the search pa
  User can add or remove movies to his/her favourite list.
  ![image](https://user-images.githubusercontent.com/56230034/170882729-c237cb40-e261-4905-8f2f-ec26d90d0290.png)
 
+
+## How to use the app
+
+Clone the repo or download and unzip it<br/>
+Use command propmt to navigate to the extracted folder<br/>
+Run
+'''npm install'''<br/>
+navigate to the Client folder and run
+'''npm install'''
+
+<br/>
+run the client and server seperately<br/>
+in the root folder run<br/>
+```npm start```<br/>
+in another command prompt in the client folder run<br/>
+```npm start```
+<br/>
