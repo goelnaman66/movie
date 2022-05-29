@@ -58,12 +58,12 @@ function RecommendationPage() {
                     console.log("making pst request to 'https://finalmoviebackend.herokuapp.com/recommendations/usercolaborativefiltering'")
                     res = await axios.post('https://finalmoviebackend.herokuapp.com/recommendations/usercolaborativefiltering', data, config)
                 } else if(recommender_type === "itemBasedCF") {
-                    console.log("making pst request to 'https://finalmoviebackend.herokuapp.com/recommendations/itemcolaborativefiltering'")
-                    res = await axios.post('https://finalmoviebackend.herokuapp.com/recommendations/itemcolaborativefiltering', data, config)
+                    console.log("making pst request to 'http://127.0.0.1:5001/recommendations/itemcolaborativefiltering'")
+                    res = await axios.post('http://127.0.0.1:5001/recommendations/itemcolaborativefiltering', data, config)
                 }
                 else if(recommender_type === "newitemBasedCF"){
-                    console.log("making pst request to 'https://finalmoviebackend.herokuapp.com/newrecommendations/itemcolaborativefiltering'")
-                    res = await axios.post('https://finalmoviebackend.herokuapp.com/recommendations/newitemcolaborativefiltering', data, config)
+                    console.log("making pst request to 'http://127.0.0.1:5001/newrecommendations/itemcolaborativefiltering'")
+                    res = await axios.post('http://127.0.0.1:5001/recommendations/newitemcolaborativefiltering', data, config)
                 }
                 else if(recommender_type === "Analysis"){
                     window.location.assign('https://streamlit-movie.herokuapp.com/')
