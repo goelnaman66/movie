@@ -86,8 +86,11 @@ navigate to the Client folder and run
 
 <br/>
 run the client and server seperately<br/>
-in the root folder run<br/>
-```npm start```<br/>
-in another command prompt in the client folder run<br/>
+in the root folder run
+```npm start```
+
+in another command prompt in the client folder run
+<br/>
+
 ```npm start```
 <br/>
