@@ -63,3 +63,8 @@ password: 123456<br/>
 It contains features like ratings, add to favourites movie description, comments section, like and dislike, movie info, etc.
 ![image](https://user-images.githubusercontent.com/56230034/170882617-411e72cf-78ce-452c-bfaa-c926c9470bfb.png)
 
+## Search Feature
+
+User can search for different movies in the search bar provided on the search page.
+![image](https://user-images.githubusercontent.com/56230034/170882675-4ab2dc74-a20a-4d7f-b1c7-bbcb65a4d475.png)
+
