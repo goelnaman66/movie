@@ -110,7 +110,7 @@ in another command prompt in the client folder run
 ***
 
 ## How to use the flask server
-1. Clone the repo or download and unzip it
+1. Clone the repo or download and unzip it ```https://github.com/goelnaman66/flask-server```
 2. Create a virtual environment with <b> Python version 3.7.13 </b>
 3. Run command
   ```pip install -r requirements.txt``` 
