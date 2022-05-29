@@ -24,7 +24,7 @@ app.use('/api/rating', require('./routes/rating'));
 //https://stackoverflow.com/questions/48914987/send-image-path-from-node-js-express-server-to-react-client
 app.use('/uploads', express.static('uploads'));
 
-const whitelist = ['http://localhost:3000', 'http://localhost:8080', 'https://shrouded-journey-38552.heroku...']
+const whitelist = ['http://localhost:3000', 'http://localhost:8080', 'https://moviefinalapp.heroku...']
 const corsOptions = {
     origin: function(origin, callback) {
         console.log("** Origin of request " + origin)
