@@ -17,8 +17,7 @@ Recommendations are based on similar users(UserBased Collaborative Filtering),si
 <br/>
 #<b>(in deployment of the flask server the item based model and knn baseline exceeds the available memory limit on the free tier of Heroku so this has not been included)
 </b>
-
-![image](https://user-images.githubusercontent.com/56230034/170880769-72d93c59-258f-4ebb-b4da-2774ddcda642.png)
+***![image](https://user-images.githubusercontent.com/56230034/170880769-72d93c59-258f-4ebb-b4da-2774ddcda642.png)***
 <br/>
 
 ## User Based Collaborative Filtering
