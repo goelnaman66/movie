@@ -30,6 +30,8 @@ User-Based Collaborative Filtering is a technique used to predict the items that
 ## Item Based Collaborative Filtering
 <br/>
 The fundamental assumption for this method is that a user gives similar ratings to similar movies Here, we explore the relationship between the pair of items (the user who liked Y, also liked Z).
+![image](https://user-images.githubusercontent.com/56230034/170881797-a8f1505c-699a-48df-8feb-5395bc2db603.png)
+
 
 ## Knn Baseline Collaborative Filtering
 <br/>
