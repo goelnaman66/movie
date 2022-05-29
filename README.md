@@ -11,8 +11,19 @@ Link for flask backend server:
 # Features of the App
 ```In today's hectic society, recommendation systems are becoming increasingly vital. People are constantly on the lookout for products and services that are tailored to their specific needs. As a result, recommendation systems are critical since they assist them in making the best decisions without having to use their cognitive resources.```
 <br/>
+<br/>
 Recommendations are based on similar users(UserBased Collaborative Filtering),similar movies (itemBased colaborative filtering), centred KNN( A basic collaborative filtering algorithm, taking into account the mean ratings of each user), and NMF (A collaborative filtering algorithm based on Non-negative Matrix Factorization)
 <br/>
 <br/>
 #<b>(in deployment of the flask server the item based model and centred knn exceeds the available memory limit on the free tier of Heroku so this has not been included)
 </b>
+
+![image](https://user-images.githubusercontent.com/56230034/170880769-72d93c59-258f-4ebb-b4da-2774ddcda642.png)
+<br/>
+
+## USER Based Collaborative Filtering
+<br/>
+User-Based Collaborative Filtering is a technique used to predict the items that a user might like on the basis of ratings given to that item by the other users who have similar taste with that of the target user.
+<br/>
+![image](https://user-images.githubusercontent.com/56230034/170880864-e7f7fc08-b8ca-43e2-b921-f2d77a29a7bb.png)
+
