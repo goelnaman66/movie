@@ -12,10 +12,10 @@ Link for flask backend server:
 ```In today's hectic society, recommendation systems are becoming increasingly vital. People are constantly on the lookout for products and services that are tailored to their specific needs. As a result, recommendation systems are critical since they assist them in making the best decisions without having to use their cognitive resources.```
 <br/>
 <br/>
-Recommendations are based on similar users(UserBased Collaborative Filtering),similar movies (itemBased colaborative filtering), centred KNN( A basic collaborative filtering algorithm, taking into account the mean ratings of each user), and NMF (A collaborative filtering algorithm based on Non-negative Matrix Factorization)
+Recommendations are based on similar users(UserBased Collaborative Filtering),similar movies (itemBased colaborative filtering), KNN Baseline( A basic collaborative filtering algorithm taking into account a baseline rating), and NMF (A collaborative filtering algorithm based on Non-negative Matrix Factorization)
 <br/>
 <br/>
-#<b>(in deployment of the flask server the item based model and centred knn exceeds the available memory limit on the free tier of Heroku so this has not been included)
+#<b>(in deployment of the flask server the item based model and knn baseline exceeds the available memory limit on the free tier of Heroku so this has not been included)
 </b>
 
 ![image](https://user-images.githubusercontent.com/56230034/170880769-72d93c59-258f-4ebb-b4da-2774ddcda642.png)
@@ -29,9 +29,18 @@ User-Based Collaborative Filtering is a technique used to predict the items that
 
 ## Item Based Collaborative Filtering
 <br/>
-<br/>
 The fundamental assumption for this method is that a user gives similar ratings to similar movies Here, we explore the relationship between the pair of items (the user who liked Y, also liked Z).
 
+## Knn Baseline Collaborative Filtering
+<br/>
+A basic collaborative filtering algorithm taking into account a baseline rating.
 
+## NMF Based Collaborative Filtering
+<br/>
+A collaborative filtering algorithm based on Non-negative Matrix Factorization.
+
+## Analysis of Different Recommendation Algorithms
+<br/>
+![image](https://user-images.githubusercontent.com/56230034/170881599-00f7a0d5-9b78-4187-a9b0-3725b1a6f6ca.png)
 
 
