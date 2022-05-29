@@ -46,5 +46,13 @@ A collaborative filtering algorithm based on Non-negative Matrix Factorization.
 ## 5. Analysis of Different Recommendation Algorithms
 <br/>
 ![image](https://user-images.githubusercontent.com/56230034/170881599-00f7a0d5-9b78-4187-a9b0-3725b1a6f6ca.png)
+***
 
+Signin And Signup
+<br/>
+
+Dummy User<br/>
+email: goelnaman66@gmail.com<br/>
+password: 123456<br/>
+<br/>
 
