@@ -33,21 +33,23 @@ User-Based Collaborative Filtering is a technique used to predict the items that
 
 ## 2. Item Based Collaborative Filtering
 <br/>
+<b>It can take few minutes to show recommendation</b>
 The fundamental assumption for this method is that a user gives similar ratings to similar movies Here, we explore the relationship between the pair of items (the user who liked Y, also liked Z).
 
-***![image](https://user-images.githubusercontent.com/56230034/170883704-4126e84f-48a5-4c89-8d22-52ceffb27a55.png)***
+***![image](https://user-images.githubusercontent.com/56230034/170884106-54c7ba77-3292-4836-b519-1b27df9c7aed.png)***
 
 ## 3. Knn Baseline Collaborative Filtering
 <br/>
+<b>It can take few minutes to show recommendation</b>
 A basic collaborative filtering algorithm taking into account a baseline rating.
 
-***![image](https://user-images.githubusercontent.com/56230034/170883704-4126e84f-48a5-4c89-8d22-52ceffb27a55.png)***
+***![image](https://user-images.githubusercontent.com/56230034/170884187-75f2656d-b226-4f21-b51a-172e0ef2107b.png)***
 
 ## 4. NMF Based Collaborative Filtering
 <br/>
 A collaborative filtering algorithm based on Non-negative Matrix Factorization.
 
-***![image](https://user-images.githubusercontent.com/56230034/170883704-4126e84f-48a5-4c89-8d22-52ceffb27a55.png)***
+***![image](https://user-images.githubusercontent.com/56230034/170884221-658b2d60-69f9-43a7-8006-a1d598c4a649.png)***
 
 ## 5. Analysis of Different Recommendation Algorithms
 
