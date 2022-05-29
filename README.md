@@ -48,11 +48,12 @@ A collaborative filtering algorithm based on Non-negative Matrix Factorization.
 ![image](https://user-images.githubusercontent.com/56230034/170881599-00f7a0d5-9b78-4187-a9b0-3725b1a6f6ca.png)
 ***
 
-Signin And Signup
+## Signin And Signup
 <br/>
 
 Dummy User<br/>
 email: goelnaman66@gmail.com<br/>
 password: 123456<br/>
 <br/>
+![Screenshot](https://user-images.githubusercontent.com/56230034/170882348-05fbefdf-0843-4e30-8f88-4e5c03382049.png)
 
