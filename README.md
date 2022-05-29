@@ -68,3 +68,9 @@ It contains features like ratings, add to favourites movie description, comments
 User can search for different movies in the search bar provided on the search page.
 ![image](https://user-images.githubusercontent.com/56230034/170882675-4ab2dc74-a20a-4d7f-b1c7-bbcb65a4d475.png)
 
+
+## Favourite Page
+
+ User can add or remove movies to his/her favourite list.
+ ![image](https://user-images.githubusercontent.com/56230034/170882729-c237cb40-e261-4905-8f2f-ec26d90d0290.png)
+
