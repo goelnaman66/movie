@@ -1,6 +1,8 @@
 # Movie Recommendation App
 
-This is a movie recommendation app build using React for the front-end, express for the back-end, flask for handelling the recommendations and mongoDB for the database.
+This is a movie recommendation app build using React for the front-end, express for the back-end, flask for handelling the recommendations and mongoDB for the database and tmdb api to fetch the movie details. It showcases many features such as recommendation engine, search bar, add to favourites functionality, like or dislike movie, commenting, etc.
+<br/>
+
 ***
 SurpriseLib is used in this project to generate recommendations using a Cosine similarity-based nearest neighbours method. Dummy users are built using the moviewlens 100K dataset for testing purposes. There are at least 20 movie ratings for each user.
 ![image](https://user-images.githubusercontent.com/56230034/170880146-461fc98e-477d-4240-844a-cb3e029080b7.png)
