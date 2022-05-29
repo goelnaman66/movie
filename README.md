@@ -80,8 +80,12 @@ User can search for different movies in the search bar provided on the search pa
 Clone the repo or download and unzip it<br/>
 Use command propmt to navigate to the extracted folder<br/>
 Run
-'''npm install'''<br/>
+
+'''npm install'''
+
+
 navigate to the Client folder and run
+
 '''npm install'''
 
 <br/>
