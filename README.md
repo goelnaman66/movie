@@ -78,7 +78,7 @@ User can search for different movies in the search bar provided on the search pa
 ## How to use the app
 
 Clone the repo or download and unzip it<br/>
-Use command propmt to navigate to the extracted folder<br/>
+Use command propmt to navigate to the extracted folder
 Run
 
 '''npm install'''
@@ -88,7 +88,7 @@ navigate to the Client folder and run
 
 '''npm install'''
 
-<br/>
+
 run the client and server seperately
 <br/>
 
