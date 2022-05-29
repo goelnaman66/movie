@@ -61,3 +61,5 @@ password: 123456<br/>
 ## Movie Details Page
 
 It contains features like ratings, add to favourites movie description, comments section, like and dislike, movie info, etc.
+![image](https://user-images.githubusercontent.com/56230034/170882617-411e72cf-78ce-452c-bfaa-c926c9470bfb.png)
+
