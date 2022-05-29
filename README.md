@@ -13,5 +13,6 @@ Link for flask backend server:
 <br/>
 Recommendations are based on similar users(UserBased Collaborative Filtering),similar movies (itemBased colaborative filtering), centred KNN( A basic collaborative filtering algorithm, taking into account the mean ratings of each user), and NMF (A collaborative filtering algorithm based on Non-negative Matrix Factorization)
 <br/>
-<b>(in deployment of the flask server the item based model and centred knn exceeds the available memory limit on the free tier of Heroku so this has not been included)
+<br/>
+#<b>(in deployment of the flask server the item based model and centred knn exceeds the available memory limit on the free tier of Heroku so this has not been included)
 </b>
